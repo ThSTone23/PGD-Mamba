@@ -1,4 +1,4 @@
-﻿# PGD-Mamba
+# PGD-Mamba
 
 ## Installation
 
