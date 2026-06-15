@@ -1,11 +1,11 @@
-# PGD-Mamba
+﻿# PGD-Mamba
 
 ## Installation
 
 Clone the repository:
 
 ```bash
-git clone git@github.com:PaleWL/PGD-Mamba.git
+git clone git@github.com:ThSTone23/PGD-Mamba.git
 cd PGD-Mamba
 ```
 
