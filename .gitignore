@@ -1,0 +1,49 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+.pytest_cache/
+
+# Environments and local configs
+.env
+.venv/
+venv/
+.vscode/
+.idea/
+
+# Experiment outputs
+runs/
+logs/
+model/
+models/
+checkpoints/
+outputs/
+*.log
+
+# Datasets and medical data
+code/datasets/**/*.h5
+code/datasets/**/*.npy
+code/datasets/**/*.npz
+code/datasets/**/*.mat
+code/datasets/**/*.nii
+code/datasets/**/*.nii.gz
+
+!code/datasets/
+!code/datasets/fastmri/
+!code/datasets/fastmri/.gitkeep
+!code/datasets/ixi/
+!code/datasets/ixi/.gitkeep
+
+# Weights and generated figures
+*.pth
+*.pt
+*.ckpt
+*.safetensors
+*.png
+*.jpg
+*.jpeg
+*.pdf
+*.svg
+
+# Duplicate local backup files
+* (2)*
